@@ -1,4 +1,8 @@
 package model;
 
-public class Somn {
+import java.util.UUID;
+
+public class Somn
+{
+    private UUID id;
 }
